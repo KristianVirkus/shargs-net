@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Shargs/bin/Debug
+/src/Shargs/.vs/Shargs/v15/Server/sqlite3
+/src/Shargs/obj/Debug
+/src/Shargs.UnitTests/bin/Debug
+/src/Shargs.UnitTests/obj/Debug
