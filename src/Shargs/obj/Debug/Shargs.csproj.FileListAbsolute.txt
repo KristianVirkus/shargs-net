@@ -1,6 +1,0 @@
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\Shargs.csprojResolveAssemblyReference.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\Shargs.csproj.CoreCompileInputs.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs\bin\Debug\Shargs.dll
-C:\Users\Kristian\git\shargs-net\src\Shargs\bin\Debug\Shargs.pdb
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\Shargs.dll
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\Shargs.pdb

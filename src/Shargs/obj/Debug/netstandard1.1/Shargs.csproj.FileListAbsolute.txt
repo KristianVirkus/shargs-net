@@ -1,9 +1,0 @@
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.csproj.CoreCompileInputs.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.AssemblyInfoInputs.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.AssemblyInfo.cs
-C:\Users\Kristian\git\shargs-net\src\Shargs\bin\Debug\netstandard1.1\Shargs.deps.json
-C:\Users\Kristian\git\shargs-net\src\Shargs\bin\Debug\netstandard1.1\Shargs.dll
-C:\Users\Kristian\git\shargs-net\src\Shargs\bin\Debug\netstandard1.1\Shargs.pdb
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.dll
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.pdb
-C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.1\Shargs.csprojAssemblyReference.cache

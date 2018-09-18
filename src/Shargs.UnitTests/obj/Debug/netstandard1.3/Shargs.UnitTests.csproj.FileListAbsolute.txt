@@ -1,6 +1,0 @@
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\bin\Debug\netstandard1.3\Shargs.UnitTests.deps.json
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\bin\Debug\netstandard1.3\Shargs.UnitTests.dll
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\obj\Debug\netstandard1.3\Shargs.UnitTests.csprojResolveAssemblyReference.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\obj\Debug\netstandard1.3\Shargs.UnitTests.csproj.CoreCompileInputs.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\obj\Debug\netstandard1.3\Shargs.UnitTests.AssemblyInfoInputs.cache
-C:\Users\Kristian\git\shargs-net\src\Shargs.UnitTests\obj\Debug\netstandard1.3\Shargs.UnitTests.AssemblyInfo.cs
