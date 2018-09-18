@@ -13,7 +13,7 @@ namespace Shargs.UnitTests.Data1
         [Collections.Verb("process")]
         public ProcessOptions Process { get; set; }
 
-        [Collections.Verb("get-config")]
-        public GetConfigOptions Get { get; set; }
+        //[Collections.Verb("get-config")]
+        //public GetConfigOptions Get { get; set; }
     }
 }

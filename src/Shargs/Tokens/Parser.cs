@@ -3,9 +3,9 @@
     using System;
 
     /// <summary>
-    /// Implements a parser to split command line argument into tokens.
+    /// Implements a parser to split command line arguments into tokens.
     /// </summary>
-    static class Parser
+    public static class Parser
     {
         /// <summary>
         /// Parses command line arguments.
@@ -15,6 +15,9 @@
         /// <returns></returns>
         public static ParserResults Parse(string args, ParserConfig config)
         {
+            if (args == null) throw new ArgumentNullException("args");
+            if (config == null) throw new ArgumentNullException("config");
+
             var result = new ParserResults(null);
 
 

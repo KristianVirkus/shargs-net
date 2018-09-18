@@ -1,0 +1,4 @@
+C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.0\Shargs.csprojResolveAssemblyReference.cache
+C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.0\Shargs.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.0\Shargs.AssemblyInfoInputs.cache
+C:\Users\Kristian\git\shargs-net\src\Shargs\obj\Debug\netstandard1.0\Shargs.AssemblyInfo.cs

@@ -5,10 +5,7 @@ namespace Shargs.Collections
     /// <summary>
     /// Tags a property as global options container.
     /// </summary>
-    /// <remarks>
-    /// The tagged property must be of <see cref="IOption"/> type.
-    /// </remarks>
-    [AttributeUsage(AttributeTargets.All, Inherited = false, AllowMultiple = true)]
+    [AttributeUsage(AttributeTargets.Property, Inherited = false, AllowMultiple = false)]
     public sealed class GlobalOptionsAttribute : Attribute
     {
     }

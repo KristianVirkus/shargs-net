@@ -9,7 +9,7 @@ namespace Shargs.Collections
     /// The tagged property should be of a type containing the
     /// logically related options.
     /// </remarks>
-    [AttributeUsage(AttributeTargets.All, Inherited = false, AllowMultiple = true)]
+    [AttributeUsage(AttributeTargets.Property, AllowMultiple = true)]
     public sealed class VerbAttribute : Attribute
     {
         #region --- Properties ---

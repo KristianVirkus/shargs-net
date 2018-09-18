@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<!--<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Shargs</RootNamespace>
     <AssemblyName>Shargs</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFramework>netstandard1.0</TargetFramework>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -69,4 +69,33 @@
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <Authors>Kristian Virkus</Authors>
+    <Product>Shargs for .NET</Product>
+    <PackageId>shargs-net</PackageId>
+    <Description>Shell Arguments Parser for .NET</Description>
+    <Copyright>Copyright (c) 2018, by Kristian Virkus</Copyright>
+    <PackageLicenseUrl>https://github.com/KristianVirkus/shargs-net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/KristianVirkus/shargs-net/</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/KristianVirkus/shargs-net/blob/master/src/PackageIcon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/KristianVirkus/shargs-net/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reflection" Version="4.3.0" />
+  </ItemGroup>
+
 </Project>

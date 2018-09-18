@@ -1,6 +1,6 @@
 ﻿namespace Shargs.UnitTests.Data1
 {
-    using Shargs.Options;
+    using Shargs.Mapping;
 
     class ProcessOptions
     {
